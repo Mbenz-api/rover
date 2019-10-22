@@ -2,9 +2,8 @@ package com.lamjed.mars.rover.action;
 
 import java.util.List;
 
+import org.junit.Assert;
 import org.junit.Test;
-
-import junit.framework.Assert;
 
 /***
  * 
