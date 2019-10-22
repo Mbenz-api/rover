@@ -1,0 +1,8 @@
+com\lamjed\mars\rover\action\InputActionParserTest.class
+com\lamjed\mars\rover\grid\PlateauTest.class
+com\lamjed\mars\rover\action\ActionSpinLeftlTest.class
+com\lamjed\mars\rover\action\ActionMForwardlTest.class
+com\lamjed\mars\rover\RoverMarsTest.class
+com\lamjed\mars\rover\grid\DirectionTest.class
+com\lamjed\mars\rover\action\ActionSpinRightlTest.class
+com\lamjed\mars\rover\grid\CoordinatesTest.class
