@@ -21,7 +21,7 @@ public class RoverMain {
 	public static void main(String[] args) {
 //input file params
 		String filePath = args[0];
-		;// "C:\\Users\\Lenovo\\Desktop"; // args[0];
+		// "C:\\Users\\Lenovo\\Desktop"; // args[0];
 		FileInputStream fstream;
 		String strLine;
 		try {
